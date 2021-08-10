@@ -70,7 +70,7 @@ $("#output").html(myData);
 		<a href="year" class="category">Bond Films By Year</a><br />
 		<a href="box" class="category">Bond Films By International Box Office Totals</a>
 		<h3 id="filmtitle">Title Will Go Here</h3>
-		<div id="films">
+		<div id="film">
 			<b>Film:</b>1<br />
 			<b>Title:</b>Dr. No<br />
 			<b>Year:</b>1962<br />
@@ -80,7 +80,8 @@ $("#output").html(myData);
 			<b>Composer:</b>Monty Norman<br />
 			<b>Bond:</b>Sean Connery<br />
 			<b>Budget:</b>$1,000,000.00<br />
-			<b>BoxOffice:</b>$59,567,035.00<br />	<div class="pic"><img src="thumbnails/dr-no.jpg"/></div>
+			<b>BoxOffice:</b>$59,567,035.00<br />	
+			<div class="pic"><img src="thumbnails/dr-no.jpg" /></div>
 		</div>
 		<div id="output">Results go here</div>
 	</body>
