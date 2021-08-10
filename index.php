@@ -57,8 +57,12 @@ function bondJSON(data){
 	//indentifies the type of data returned
 	$('#filmtitle').html(data.title);
 
-	$.each(data.films.funtion(i,item){
-		let myFilm = bondTemplate(item)
+	//clears other clicked films
+	$('#films').html("");
+
+	//loop through films and add template
+	$.each(data.films,function(i,item){
+		let myFilm = bondTemplate(item);
 
 		$('<div></div>').html(myFilm).appendTo('#films');
 	});	
@@ -71,8 +75,9 @@ function bondJSON(data){
 let myData = JSON.stringify(data,null,4);
 myData = "<pre>" + myData + "</pre>";
 $("#output").html(myData);
-}
 */
+}
+
 
 
 function bondTemplate(film){
