@@ -40,13 +40,3 @@
 			  }
 	]
 }
-
-/*
-
-Sonic the Hedgehog, Platformer, Sega, 1991, E
-Mario Cart, Racing, Nintendo, 1992, E
-Portal, Puzzle Valve, 2007, T
-Minecraft, Sandbox, Mojang, 2011, E
-Counter-Strike Global Offensive, Tactical Shooter, Valve, 2012, M
-
-*/
