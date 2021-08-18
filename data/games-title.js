@@ -1,6 +1,6 @@
 
 {
-	"title": "Video Games by ",
+	"title": "Video Games by title",
 	"games":[
               {
 				"Title":"Assassin's Creed IV: Black Flag",
@@ -81,6 +81,6 @@
 				"Year":2015,
 				"Rating":"E",
 				"Image":"sonic-the-hedgehog.jpg"
-			  },		  
+			  }		  
 	]
 }
