@@ -2,42 +2,85 @@
 {
 	"title": "Video Games by Year",
 	"games":[
-			  {
-				"Title":"Sonic the Hedgehog",
-				"Genre":"Platformer",
-				"Company":"Sega",
-				"Year":1991,
-				"Rating":"E",
-				"Image":"sonic-the-hedgehog.jpg"
-			  },
-			  {
-				"Title":"Mario Cart",
-				"Genre":"Racing",
-				"Company":"Nintendo",
-				"Year":1992,
-				"Rating":"E",
-				"Image":"mario-cart.jpg"
-			  }, {
-				"Title":"Portal",
-				"Genre":"Puzzle",
-				"Company":"Valve",
-				"Year":2007,
-				"Rating":"T",
-				"Image":"portal.jpg"
-			  }, {
-				"Title":"Minecraft",
-				"Genre":"Sandbox",
-				"Company":"Mojang",
-				"Year":2011,
-				"Rating":"E",
-				"Image":"minecraft.jpg"
-			  },{
-				"Title":"Counter-Strike Global Offensive",
-				"Genre":"Tactical Shooter",
-				"Company":"Valve",
-				"Year":2012,
-				"Rating":"M",
-				"Image":"counter-strike-global-offensive.jpg"
-			  }
+		{
+			"Title":"Monkey Island : LeChuck's Revenge",
+			"Genre":"Adventure game",
+			"Company":"Lucasarts",
+			"Year":1991,
+			"Rating":"E",
+			"Image":"sonic-the-hedgehog.jpg"
+		  },
+		  {
+			"Title":"Final Fantasy VII",
+			"Genre":"Adventure game",
+			"Company":"Square Enix",
+			"Year":1997,
+			"Rating":"M",
+			"Image":"sonic-the-hedgehog.jpg"
+		  },
+		  {
+			"Title":"Fallout 2",
+			"Genre":"Role-playing video game",
+			"Company":"Interplay Entertainment",
+			"Year":1998,
+			"Rating":"M",
+			"Image":"sonic-the-hedgehog.jpg"
+		  },
+		  {
+			"Title":"Burnout 3: Takedown",
+			"Genre":"Action Game",
+			"Company":"SegaElectronic Arts",
+			"Year":2004,
+			"Rating":"E",
+			"Image":"sonic-the-hedgehog.jpg"
+		  },
+		  {
+			"Title":"League of Legends",
+			"Genre":"Action role-playing game",
+			"Company":"Riot Games",
+			"Year":2009,
+			"Rating":"T",
+			"Image":"sonic-the-hedgehog.jpg"
+		  },
+		  {
+			"Title":"Dishonored",
+			"Genre":"Action Adventure Game",
+			"Company":"Bethesda Softworks",
+			"Year":2011,
+			"Rating":"M",
+			"Image":"minecraft.jpg"
+		  },
+		  {
+			"Title":"Borderlands 2",
+			"Genre":"First-person shooter",
+			"Company":"2K Games",
+			"Year":2012,
+			"Rating":"M",
+			"Image":"mario-cart.jpg"
+		  }, 
+		  {
+			"Title":"Assassin's Creed IV: Black Flag",
+			"Genre":"Action Adventure",
+			"Company":"Ubisoft",
+			"Year":2013,
+			"Rating":"M",
+			"Image":"counter-strike-global-offensive.jpg"
+		  },
+		  {
+			"Title":"Undertale",
+			"Genre":"Role-playing video game",
+			"Company":"Toby Fox",
+			"Year":2015,
+			"Rating":"E",
+			"Image":"sonic-the-hedgehog.jpg"
+		  },
+		  {
+			"Title":"Divinity: Original Sin 2",
+			"Genre":"Rolr playing video game",
+			"Company":"Larian Studios",
+			"Year":2017,
+			"Rating":"M",
+			"Image":"portal.jpg"
+		  }
 	]
 }
