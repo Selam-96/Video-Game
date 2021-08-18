@@ -48,7 +48,7 @@
 			"Company":"Bethesda Softworks",
 			"Year":2011,
 			"Rating":"M",
-			"Image":"dishonored.jpeg"
+			"Image":"dis.jpeg"
 		  },
 		  {
 			"Title":"Borderlands 2",
