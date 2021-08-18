@@ -8,7 +8,7 @@
 			"Company":"Lucasarts",
 			"Year":1991,
 			"Rating":"E",
-			"Image":"sonic-the-hedgehog.jpg"
+			"Image":"monkey.jpeg"
 		  },
 		  {
 			"Title":"Final Fantasy VII",
@@ -16,7 +16,7 @@
 			"Company":"Square Enix",
 			"Year":1997,
 			"Rating":"M",
-			"Image":"sonic-the-hedgehog.jpg"
+			"Image":"finalfantasy.jpeg"
 		  },
 		  {
 			"Title":"Fallout 2",
@@ -24,7 +24,7 @@
 			"Company":"Interplay Entertainment",
 			"Year":1998,
 			"Rating":"M",
-			"Image":"sonic-the-hedgehog.jpg"
+			"Image":"fallout.jpeg"
 		  },
 		  {
 			"Title":"Burnout 3: Takedown",
@@ -32,7 +32,7 @@
 			"Company":"SegaElectronic Arts",
 			"Year":2004,
 			"Rating":"E",
-			"Image":"sonic-the-hedgehog.jpg"
+			"Image":"burnout.jpeg"
 		  },
 		  {
 			"Title":"League of Legends",
@@ -40,7 +40,7 @@
 			"Company":"Riot Games",
 			"Year":2009,
 			"Rating":"T",
-			"Image":"sonic-the-hedgehog.jpg"
+			"Image":"leaguegame.jpeg"
 		  },
 		  {
 			"Title":"Dishonored",
@@ -48,7 +48,7 @@
 			"Company":"Bethesda Softworks",
 			"Year":2011,
 			"Rating":"M",
-			"Image":"minecraft.jpg"
+			"Image":"dishonored.jpeg"
 		  },
 		  {
 			"Title":"Borderlands 2",
@@ -56,7 +56,7 @@
 			"Company":"2K Games",
 			"Year":2012,
 			"Rating":"M",
-			"Image":"mario-cart.jpg"
+			"Image":"borderland.jpeg"
 		  }, 
 		  {
 			"Title":"Assassin's Creed IV: Black Flag",
@@ -64,7 +64,7 @@
 			"Company":"Ubisoft",
 			"Year":2013,
 			"Rating":"M",
-			"Image":"counter-strike-global-offensive.jpg"
+			"Image":"Assasins Creed.jpeg"
 		  },
 		  {
 			"Title":"Undertale",
@@ -72,7 +72,7 @@
 			"Company":"Toby Fox",
 			"Year":2015,
 			"Rating":"E",
-			"Image":"sonic-the-hedgehog.jpg"
+			"Image":"undertale.jpeg"
 		  },
 		  {
 			"Title":"Divinity: Original Sin 2",
@@ -80,7 +80,7 @@
 			"Company":"Larian Studios",
 			"Year":2017,
 			"Rating":"M",
-			"Image":"portal.jpg"
+			"Image":"originalsin.jpeg"
 		  }
 	]
 }
